@@ -1,0 +1,4 @@
+location         = "eastus"
+environment      = "dev"
+application_name = "vendorapp"
+unique_suffix    = "a1b2c3"
